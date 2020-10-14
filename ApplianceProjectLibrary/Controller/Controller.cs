@@ -1,4 +1,4 @@
-using ApplianceLibrary.Model.Entity;
+using ApplianceProjectLibrary.Model.Entity;
 using System;
 using ApplianceProjectLibrary.Model.BusinessLogic;
 

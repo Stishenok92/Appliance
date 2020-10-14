@@ -1,4 +1,4 @@
-namespace ApplianceLibrary.Model.Entity
+namespace ApplianceProjectLibrary.Model.Entity
 {
     public class Tv : Appliance
     {

@@ -1,4 +1,4 @@
-using ApplianceLibrary.Model.Entity;
+using ApplianceProjectLibrary.Model.Entity;
 
 namespace ApplianceProjectLibrary.Model.BusinessLogic
 {
